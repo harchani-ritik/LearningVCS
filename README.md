@@ -1,6 +1,10 @@
 # LearningVCS
-
+MENTORS
 - [Ritik Harchani](https://github.com/harchani-ritik)
+- [Prateek Mishra](https://github.com/MiKinshu)
+----------------
+
+ATTENDENCE
 - [Tejas Agrawal](https://giithub.com/cyber-venom003)
 - [Divy Agrawal](https://github.com/divy3011)
 - [Harshdeep Singh Pruthi](https://github.com/2802harsh)
