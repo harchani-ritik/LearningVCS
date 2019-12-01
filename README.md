@@ -14,3 +14,4 @@ ATTENDENCE
 - [Slok Aks](https://github.com/SlokAks)
 - [Nidhi kamewar]( https://github.com/xyz1506)
 - [Priyansha Gupta]( https://github.com/partofheartpri10)
+- [Pratyush Pareek](https://github.com/PratyushPareek)
