@@ -6,6 +6,7 @@ MENTORS
 
 ATTENDANCE
 - [Shreyas Gupta](https://github.com/sggts04)
+- [Vishesh Mittal](https://github.com/Elemento24) 
 - [Tejas Agrawal](https://giithub.com/cyber-venom003)
 - [Divy Agrawal](https://github.com/divy3011)
 - [Harshdeep Singh Pruthi](https://github.com/2802harsh)
@@ -20,3 +21,9 @@ ATTENDANCE
 - [Janit Lodha](https://github.com/JLodha)
 - [Medha Balani](https://github.com/medhabalani)
 - [Animesh Choudhury](https://github.com/animesh328)
+- [Garvit Chittora](https://github.com/garvitchittora)
+- [Pranav Singhal](https://github.com/singhalpranav22)
+- [Pranav Sai](https://github.com/theblackswann)
+- [Mridul Mittal](https://github.com/Mridul20)
+- [Jyotika](https://github.com/Jyotika999/LearningVCS)
+- [Piyush Gurjar](https://github.com/Piyush4064)
