@@ -1,7 +1,6 @@
 # LearningVCS
 MENTORS
 - [Ritik Harchani](https://github.com/harchani-ritik)
-
 - [Prateek Mishra](https://github.com/MiKinshu)
 ----------------
 
