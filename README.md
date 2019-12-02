@@ -6,6 +6,7 @@ MENTORS
 
 ATTENDANCE
 - [Shreyas Gupta](https://github.com/sggts04)
+- [Abhijeet Sonkar](https://github.com/Abhijeet12297)
 - [Yashpreet Singh](https://github.com/insane1304)
 - [Vishesh Mittal](https://github.com/Elemento24) 
 - [Tejas Agrawal](https://giithub.com/cyber-venom003)
@@ -30,4 +31,3 @@ ATTENDANCE
 - [Jyotika](https://github.com/Jyotika999/LearningVCS)
 - [Piyush Gurjar](https://github.com/Piyush4064)
 - [Harsh Mahajan](https://github.com/harsh-8989)
-
