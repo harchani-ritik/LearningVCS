@@ -4,7 +4,7 @@ MENTORS
 - [Prateek Mishra](https://github.com/MiKinshu)
 ----------------
 
-ATTENDENCE
+ATTENDANCE
 - [Shreyas Gupta](https://github.com/sggts04)
 - [Tejas Agrawal](https://giithub.com/cyber-venom003)
 - [Divy Agrawal](https://github.com/divy3011)
