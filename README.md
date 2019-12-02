@@ -20,3 +20,4 @@ ATTENDANCE
 - [Janit Lodha](https://github.com/JLodha)
 - [Medha Balani](https://github.com/medhabalani)
 - [Garvit Chittora](https://github.com/garvitchittora)
+- [Pranav Singhal](https://github.com/singhalpranav22)
