@@ -6,6 +6,7 @@ MENTORS
 
 ATTENDANCE
 - [Shreyas Gupta](https://github.com/sggts04)
+- [Vishesh Mittal](https://github.com/Elemento24) 
 - [Tejas Agrawal](https://giithub.com/cyber-venom003)
 - [Divy Agrawal](https://github.com/divy3011)
 - [Harshdeep Singh Pruthi](https://github.com/2802harsh)
