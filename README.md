@@ -24,3 +24,4 @@ ATTENDANCE
 - [Pranav Singhal](https://github.com/singhalpranav22)
 - [Pranav Sai](https://github.com/theblackswann)
 - [Mridul Mittal](https://github.com/Mridul20)
+- [Jyotika](https://github.com/Jyotika999/LearningVCS)
