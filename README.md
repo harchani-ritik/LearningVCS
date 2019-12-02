@@ -32,3 +32,4 @@ ATTENDANCE
 - [Piyush Gurjar](https://github.com/Piyush4064)
 - [Harsh Mahajan](https://github.com/harsh-8989)
 - [Anurag Sharma](https://github.com/AnuragS13/LearningVCS)
+- [Chetan Garg](https://github.com/untrulynoxiusmj)
