@@ -35,3 +35,4 @@ ATTENDANCE
 - [Harsh Mahajan](https://github.com/harsh-8989)
 - [Anurag Sharma](https://github.com/AnuragS13/LearningVCS)
 - [Chetan Garg](https://github.com/untrulynoxiusmj)
+- [Sanyam Agarwal](https://github.com/unbeatablecode7)
