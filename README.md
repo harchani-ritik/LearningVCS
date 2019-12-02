@@ -40,3 +40,4 @@ ATTENDANCE
 - [Shreesh Swaraj](https://github.com/Shreesh90)
 - [Ravi Agrawal](https://github.com/rox99)
 - [Anirudh S](https://github.com/anirudh2019)
+- [Yukta Gopalani](https://github.com/gopalaniyukta)
