@@ -36,3 +36,4 @@ ATTENDANCE
 - [Anurag Sharma](https://github.com/AnuragS13/LearningVCS)
 - [Chetan Garg](https://github.com/untrulynoxiusmj)
 - [Sanyam Agarwal](https://github.com/unbeatablecode7)
+- [Ranveer Singh](https://github.com/Ranveer251)
