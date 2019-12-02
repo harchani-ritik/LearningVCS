@@ -23,3 +23,4 @@ ATTENDANCE
 - [Garvit Chittora](https://github.com/garvitchittora)
 - [Pranav Singhal](https://github.com/singhalpranav22)
 - [Pranav Sai](https://github.com/theblackswann)
+- [Mridul Mittal](https://github.com/Mridul20)
