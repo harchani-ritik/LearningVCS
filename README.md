@@ -6,6 +6,7 @@ MENTORS
 
 ATTENDANCE
 - [Shreyas Gupta](https://github.com/sggts04)
+- [Mandar Wanjare](https://github.com/Mandar16)
 - [Abhijeet Sonkar](https://github.com/Abhijeet12297)
 - [Yashpreet Singh](https://github.com/insane1304)
 - [Vishesh Mittal](https://github.com/Elemento24) 
