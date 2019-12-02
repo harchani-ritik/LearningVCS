@@ -39,3 +39,4 @@ ATTENDANCE
 - [Ranveer Singh](https://github.com/Ranveer251)
 - [Shreesh Swaraj](https://github.com/Shreesh90)
 - [Ravi Agrawal](https://github.com/rox99/LearningVCS)
+- [Anirudh S] (https://github.com/anirudh2019)
