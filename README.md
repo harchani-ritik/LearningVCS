@@ -21,6 +21,7 @@ ATTENDANCE
 - [Varun Tiwari](https://github.com/VarunT11)
 - [Janit Lodha](https://github.com/JLodha)
 - [Medha Balani](https://github.com/medhabalani)
+- [Aarushi](https://github.com/xxx32)
 - [Animesh Choudhury](https://github.com/animesh328)
 - [Garvit Chittora](https://github.com/garvitchittora)
 - [Pranav Singhal](https://github.com/singhalpranav22)
