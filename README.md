@@ -19,4 +19,4 @@ ATTENDANCE
 - [Varun Tiwari](https://github.com/VarunT11)
 - [Janit Lodha](https://github.com/JLodha)
 - [Medha Balani](https://github.com/medhabalani)
-- [garvitchittora](https://github.com/garvitchittora)
+- [Garvit Chittora](https://github.com/garvitchittora)
