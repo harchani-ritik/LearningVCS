@@ -43,3 +43,4 @@ ATTENDANCE
 - [Yukta Gopalani](https://github.com/gopalaniyukta)
 - [Abhishek Bhaware](https://github.com/abhishekbhaware)
 - [Soham Mehta](https://github.com/CrashTV1334)
+- [Pranshu Tripathi](https://github.com/Pranshu-Tripathi)
