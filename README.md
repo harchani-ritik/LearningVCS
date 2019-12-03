@@ -16,3 +16,8 @@ ATTENDENCE
 - [Priyansha Gupta]( https://github.com/partofheartpri10)
 - [Pratyush Pareek](https://github.com/PratyushPareek)
 - [Pavika Chaudhary](https://github.com/pavikachaudhary)
+- [Pranshu Tripathi](https://github.com/Pranshu-Tripathi)
+
+
+
+
