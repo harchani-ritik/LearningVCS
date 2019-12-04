@@ -45,3 +45,4 @@ ATTENDANCE
 - [Soham Mehta](https://github.com/CrashTV1334)
 - [Pranshu Tripathi](https://github.com/Pranshu-Tripathi)
 - [Shahid siddiqui](https://github.com/shahidsiddiqui786)
+- [Aastha Singh](https://github.com/aasthasingh650)
