@@ -48,3 +48,4 @@ ATTENDANCE
 - [Aastha Singh](https://github.com/aasthasingh650)
 - [Avneesh Kumar](https://github.com/Cybertron-Avneesh)
 - [Sanidhya Gupta](https://github.com/Sanidhya576)
+- [Ayush Tiwari](https://github.com/blaze-assault)
