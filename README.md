@@ -46,3 +46,4 @@ ATTENDANCE
 - [Pranshu Tripathi](https://github.com/Pranshu-Tripathi)
 - [Shahid siddiqui](https://github.com/shahidsiddiqui786)
 - [Aastha Singh](https://github.com/aasthasingh650)
+- [Avneesh Kumar](https://github.com/Cybertron-Avneesh)
