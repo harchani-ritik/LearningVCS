@@ -50,3 +50,4 @@ ATTENDANCE
 - [Aman Singh](https://github.com/prince-7)
 - [Sanidhya Gupta](https://github.com/Sanidhya576)
 - [Ayush Tiwari](https://github.com/blaze-assault)
+- [Rishika Agarwal](https://github.com/rishika8910)
