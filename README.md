@@ -53,3 +53,4 @@ ATTENDANCE
 - [Rishika Agarwal](https://github.com/rishika8910)
 - [Hardik Bajaj](https://github.com/hardikbajaj)
 - [Mrinal Bhave](https://github.com/mrinal-27)
+- [Tanish Agarwal](https://github.com/Capt-Titanium)
