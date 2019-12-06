@@ -52,3 +52,4 @@ ATTENDANCE
 - [Ayush Tiwari](https://github.com/blaze-assault)
 - [Rishika Agarwal](https://github.com/rishika8910)
 - [Hardik Bajaj](https://github.com/hardikbajaj)
+- [Mrinal Bhave](https://github.com/mrinal-27)
