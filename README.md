@@ -57,3 +57,4 @@ ATTENDANCE
 - [Tanish Agarwal](https://github.com/Capt-Titanium)
 - [Harshit Sinha](https://github.com/harsh-797)
 - [Vishwas Singh](https://github.com/infern018)
+- [Sarthak Maheshwari](https://github.com/sarthakm21)
