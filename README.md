@@ -56,3 +56,4 @@ ATTENDANCE
 - [Mrinal Bhave](https://github.com/mrinal-27)
 - [Tanish Agarwal](https://github.com/Capt-Titanium)
 - [Harshit Sinha](https://github.com/harsh-797)
+- [Vishwas Singh](https://github.com/infern018)
