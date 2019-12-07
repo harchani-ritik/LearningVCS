@@ -5,6 +5,7 @@ MENTORS
 ----------------
 
 ATTENDANCE
+- [Anirudh Agrawal](https://github.com/anirudhhhh)
 - [Shreyas Gupta](https://github.com/sggts04)
 - [Prasanth Kota](https://github.com/Evadore)
 - [Mandar Wanjare](https://github.com/Mandar16)
