@@ -59,7 +59,12 @@ ATTENDANCE
 - [Harshit Sinha](https://github.com/harsh-797)
 - [Vishwas Singh](https://github.com/infern018)
 - [Sarthak Maheshwari](https://github.com/sarthakm21)
-- [black-cat01](https://github.com/black-cat01)
+- [Vishal Burman](https://github.com/black-cat01)
 - [Yash Mishra](https://github.com/Codedude1)
 - [Varun Bhardwaj](https://github.com/starboi02)
 - [Aaryan Bhardwaj](https://github.com/uglyprincess)
+- [Priyanshu Jain](https://github.com/priyanshu0405)
+- [Aryan Gupta](https://github.com/aryan-gupta-18)
+- [Vanshika Garg](htttps://github.com/bang4bang)
+- [Vasu Gupta](https://github.com/Cipher-vasu)
+
