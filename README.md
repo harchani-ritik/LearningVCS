@@ -65,3 +65,4 @@ ATTENDANCE
 - [Priyanshu Jain](https://github.com/priyanshu0405)
 - [Aryan Gupta](https://github.com/aryan-gupta-18)
 - [Vanshika Garg](htttps://github.com/bang4bang)
+- [Vasu Gupta](https://github.com/Cipher-vasu)
