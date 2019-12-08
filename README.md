@@ -5,7 +5,9 @@ MENTORS
 ----------------
 
 ATTENDANCE
+- [Anirudh Agrawal](https://github.com/anirudhhhh)
 - [Shreyas Gupta](https://github.com/sggts04)
+- [Archit](https://github.com/Rocko-786)
 - [Prasanth Kota](https://github.com/Evadore)
 - [Mandar Wanjare](https://github.com/Mandar16)
 - [Abhijeet Sonkar](https://github.com/Abhijeet12297)
@@ -53,4 +55,13 @@ ATTENDANCE
 - [Rishika Agarwal](https://github.com/rishika8910)
 - [Hardik Bajaj](https://github.com/hardikbajaj)
 - [Mrinal Bhave](https://github.com/mrinal-27)
+- [Tanish Agarwal](https://github.com/Capt-Titanium)
+- [Harshit Sinha](https://github.com/harsh-797)
+- [Vishwas Singh](https://github.com/infern018)
+- [Sarthak Maheshwari](https://github.com/sarthakm21)
+- [Vishal Burman](https://github.com/black-cat01)
+- [Yash Mishra](https://github.com/Codedude1)
+- [Varun Bhardwaj](https://github.com/starboi02)
+- [Priyanshu Jain](https://github.com/priyanshu0405)
+- [Aryan Gupta](https://github.com/aryan-gupta-18)
 - [Vanshika Garg](htttps://github.com/bang4bang)
