@@ -59,7 +59,7 @@ ATTENDANCE
 - [Harshit Sinha](https://github.com/harsh-797)
 - [Vishwas Singh](https://github.com/infern018)
 - [Sarthak Maheshwari](https://github.com/sarthakm21)
-- [black-cat01](https://github.com/black-cat01)
+- [Vishal Burman](https://github.com/black-cat01)
 - [Yash Mishra](https://github.com/Codedude1)
 - [Varun Bhardwaj](https://github.com/starboi02)
 
