@@ -70,3 +70,4 @@ ATTENDANCE
 - [Anirudh Arora](https://github.com/Xenomorphing19)
 - [Shubhang Singh](https://github.com/shuba400)
 - [paras agrawal](https://github.com/Parasagrawal)
+- [Surya Kant](https://github.com/suryaskant29)
