@@ -66,3 +66,4 @@ ATTENDANCE
 - [Aryan Gupta](https://github.com/aryan-gupta-18)
 - [Vanshika Garg](htttps://github.com/bang4bang)
 - [Vasu Gupta](https://github.com/Cipher-vasu)
+- [paras agrawal](https://github.com/Parasagrawal)
