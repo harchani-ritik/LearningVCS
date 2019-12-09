@@ -54,4 +54,5 @@ ATTENDANCE
 - [Hardik Bajaj](https://github.com/hardikbajaj)
 - [Mrinal Bhave](https://github.com/mrinal-27)
 - [Tanish Agarwal](https://github.com/Capt-Titanium)
-- [Harshit Sinha](https://github.com/harsh-797)Sanskar Patro
+- [Harshit Sinha](https://github.com/harsh-797)
+- [Sanskar Patro](https://github.com/sanskar-p)
