@@ -7,6 +7,7 @@ MENTORS
 ATTENDANCE
 - [Anirudh Agrawal](https://github.com/anirudhhhh)
 - [Shreyas Gupta](https://github.com/sggts04)
+- [Alka Trivedi](https://github.com/Alka-git12)
 - [Sampada Kathar](https://github.com/sampadakathar)
 - [Archit](https://github.com/Rocko-786)
 - [Prasanth Kota](https://github.com/Evadore)
@@ -74,4 +75,3 @@ ATTENDANCE
 - [Sankalp Rajendran](https://github.com/Sankalp2002)
 - [Aadharsh Roshan](https://github.com/smcri)
 - [Surya Kant](https://github.com/suryaskant29)
-
