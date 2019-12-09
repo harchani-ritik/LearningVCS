@@ -71,3 +71,4 @@ ATTENDANCE
 - [Shubhang Singh](https://github.com/shuba400)
 - [paras agrawal](https://github.com/Parasagrawal)
 - [Aadharsh Roshan](https://github.com/smcri)
+- [Surya Kant](https://github.com/suryaskant29)
