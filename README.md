@@ -59,6 +59,7 @@ ATTENDANCE
 - [Mrinal Bhave](https://github.com/mrinal-27)
 - [Tanish Agarwal](https://github.com/Capt-Titanium)
 - [Harshit Sinha](https://github.com/harsh-797)
+- [Sanskar Patro](https://github.com/sanskar-p)
 - [Vishwas Singh](https://github.com/infern018)
 - [Sarthak Maheshwari](https://github.com/sarthakm21)
 - [Vishal Burman](https://github.com/black-cat01)
