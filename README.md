@@ -76,3 +76,4 @@ ATTENDANCE
 - [Sankalp Rajendran](https://github.com/Sankalp2002)
 - [Aadharsh Roshan](https://github.com/smcri)
 - [Surya Kant](https://github.com/suryaskant29)
+- [RAI Divyansh](https://github.com/coder-raksh2509)
