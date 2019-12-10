@@ -7,6 +7,7 @@ MENTORS
 ATTENDANCE
 - [Anirudh Agrawal](https://github.com/anirudhhhh)
 - [Shreyas Gupta](https://github.com/sggts04)
+- [Rahul Dev](https://github.com/Devildarkfire)
 - [Alka Trivedi](https://github.com/Alka-git12)
 - [Sampada Kathar](https://github.com/sampadakathar)
 - [Archit](https://github.com/Rocko-786)
@@ -77,3 +78,4 @@ ATTENDANCE
 - [Aadharsh Roshan](https://github.com/smcri)
 - [Surya Kant](https://github.com/suryaskant29)
 - [Shyam Tayal](https://github.com/Kr470s-eR0s)
+- [RAI Divyansh](https://github.com/coder-raksh2509)
