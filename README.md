@@ -76,6 +76,7 @@ ATTENDANCE
 - [paras agrawal](https://github.com/Parasagrawal)
 - [Sankalp Rajendran](https://github.com/Sankalp2002)
 - [Aadharsh Roshan](https://github.com/smcri)
+- [Tamoghno Bhattacharya](https://github.com/TamoghnoBhattacharya)
 - [Surya Kant](https://github.com/suryaskant29)
 - [Shyam Tayal](https://github.com/Kr470s-eR0s)
 - [RAI Divyansh](https://github.com/coder-raksh2509)
