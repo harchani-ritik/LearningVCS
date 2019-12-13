@@ -14,7 +14,7 @@ ATTENDANCE
 - [Mandar Wanjare](https://github.com/Mandar16)
 - [Abhijeet Sonkar](https://github.com/Abhijeet12297)
 - [Yashpreet Singh](https://github.com/insane1304)
-- [Vishesh Mittal](https://github.com/Elemento24) 
+- [Vishesh Mittal](https://github.com/Elemento24)
 - [Tejas Agrawal](https://giithub.com/cyber-venom003)
 - [Divy Agrawal](https://github.com/divy3011)
 - [Harshdeep Singh Pruthi](https://github.com/2802harsh)
@@ -82,3 +82,4 @@ ATTENDANCE
 - [Rahul Dev](https://github.com/Devildarkfire)
 - [Mehul Garg](https://github.com/mehul-garg)
 - [Daniel Dey](https://github.com/deydaniel)
+- [Akshay Anshul](https://github.com/AKSHAY-ACE)
