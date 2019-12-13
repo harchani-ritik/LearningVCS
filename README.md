@@ -81,4 +81,4 @@ ATTENDANCE
 - [RAI Divyansh](https://github.com/coder-raksh2509)
 - [Rahul Dev](https://github.com/Devildarkfire)
 - [Mehul Garg](https://github.com/mehul-garg)
-
+- [Daniel Dey](https://github.com/deydaniel)
