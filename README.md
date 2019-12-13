@@ -80,3 +80,5 @@ ATTENDANCE
 - [Shyam Tayal](https://github.com/Kr470s-eR0s)
 - [RAI Divyansh](https://github.com/coder-raksh2509)
 - [Rahul Dev](https://github.com/Devildarkfire)
+- [Mehul Garg](https://github.com/mehul-garg)
+
