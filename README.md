@@ -82,5 +82,6 @@ ATTENDANCE
 - [Rahul Dev](https://github.com/Devildarkfire)
 - [Mehul Garg](https://github.com/mehul-garg)
 - [Daniel Dey](https://github.com/deydaniel)
+- [Gaurav Nimrani](https://github.com/sassyfafdalover)
 - [Akshay Anshul](https://github.com/AKSHAY-ACE)
 - [Tushar Kumar](https://github.com/commander0007)
