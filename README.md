@@ -88,3 +88,5 @@ ATTENDANCE
 - [Jyotsana Srivastava](https://github.com/zevnil)
 - [Aditi Jain](https://github.com/aj0311)
 - [Utkarsh Garg](https://github.com/utkarshgarg123)
+- [Sumit Kumar Sahu](https://github.com/phantom654)
+- [Ritik](https://github.com/ageofsagittarius)
