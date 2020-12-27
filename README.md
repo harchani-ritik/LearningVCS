@@ -1,10 +1,19 @@
 # LearningVCS
-MENTORS
+## CO-ORDINATORS
 - [Ritik Harchani](https://github.com/harchani-ritik)
 - [Prateek Mishra](https://github.com/MiKinshu)
-----------------
+- [Manthan Surkar](https://github.com/thesmallstar)
 
-ATTENDANCE
+
+## MEMBERS
+- [Kishan Tripathi](https://github.com/GhostFoxSledgehammer)
+- [Vishesh Mittal](https://github.com/Elemento24)
+- [Harshdeep Singh Pruthi](https://github.com/2802harsh)
+- [Pranav Singhal](https://github.com/singhalpranav22)
+- [Yukta Gopalani](https://github.com/yuktagopalani)
+- [Pradhuman Singh Baid](https://github.com/pradhuman1)
+
+## PRE-COVID BATCH
 - [Anirudh Agrawal](https://github.com/anirudhhhh)
 - [Shreyas Gupta](https://github.com/sggts04)
 - [Alka Trivedi](https://github.com/Alka-git12)
@@ -92,3 +101,5 @@ ATTENDANCE
 - [Sumit Kumar Sahu](https://github.com/phantom654)
 - [Ritik](https://github.com/ageofsagittarius)
 - [Prince Kumar](https://github.com/Princeraaz)
+
+## COVID BATCH
