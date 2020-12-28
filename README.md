@@ -101,5 +101,6 @@
 - [Sumit Kumar Sahu](https://github.com/phantom654)
 - [Ritik](https://github.com/ageofsagittarius)
 - [Prince Kumar](https://github.com/Princeraaz)
+- [Yukta](https://github.com/yuktagopalani)
 
 ## COVID BATCH
