@@ -13,7 +13,7 @@
 - [Yukta Gopalani](https://github.com/yuktagopalani)
 - [Pradhuman Singh Baid](https://github.com/pradhuman1)
 
-## PRE-COVID BATCH
+## 2K19 BATCH
 - [Anirudh Agrawal](https://github.com/anirudhhhh)
 - [Shreyas Gupta](https://github.com/sggts04)
 - [Alka Trivedi](https://github.com/Alka-git12)
