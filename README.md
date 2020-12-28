@@ -104,6 +104,7 @@
 - [Aman Rubey](https://github.com/amanrubey)
 
 ## COVID BATCH
+- [Samarth Goel](https://github.com/Sam-commit)
 - [Aditya Biswakarma](https://github.com/AdityaBkIIITA)
 - [Vineeth Kumar Munigyala](https://github.com/VineethKumarM)
 - [Rushil Patra](https://github.com/rushilpatra)
@@ -159,6 +160,7 @@
 - [Akanksha Kashyap](https://github.com/akankshakashyap)
 - [Prajjwal Bhatt](https://github.com/D-Big-B)
 - [Jitu Rajak](https://github.com/jitu6202)
+
 
 
 
