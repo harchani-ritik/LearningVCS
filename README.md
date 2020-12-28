@@ -104,6 +104,7 @@
 - Aman Rubey(https://github.com/amanrubey)
 
 ## COVID BATCH
+- [Nikita](https://github.com/Nikita9344)
 - [Pratik Sarkate](https://github.com/Pratik-Sarkate)
 - [Mallik Prabhanjan](https://github.com/vemulapandu)
 - [Ashok Malhotra](https://github.com/AshokMalhotra23)
@@ -119,3 +120,4 @@
 - [Kishan Tripathi](https://github.com/GhostFoxSledgehammer)
 - [Divyansh Gupta](https://github.com/The-Divyansh)
 - [Akanksha Kashyap](https://github.com/akankshakashyap)
+
