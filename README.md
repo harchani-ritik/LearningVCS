@@ -109,5 +109,10 @@
 - [Misra Gautam Rajeev](https://github.com/Darkknight131714)
 - [Danish Jamwal](https://github.com/DanishJamwal)
 - [Bipul Kumar](https://github.com/bipulkmr-crypto)
+<<<<<<< HEAD
 - [Raghav Agarwal](https://github.com/rag-hav)
+=======
+- [Kishan Tripathi](https://github.com/GhostFoxSledgehammer)
+- [Akanksha Kashyap](https://github.com/akankshakashyap)
+>>>>>>> added akanksha kashyap to readme
 
