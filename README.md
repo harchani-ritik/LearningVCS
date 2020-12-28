@@ -117,10 +117,10 @@
 - [Baljot Singh](https://github.com/singhbaljot)
 - [Raghav Goel](https://github.com/raghavgoel25)
 - [Raghav Agarwal](https://github.com/rag-hav)
+- [Akshaj Kansal](https://github.com/Akshaj-Kansal)
 - [Kirti](https://github.com/codesanta142)
 - [Pranav Raj](https://github.com/rajpranav63)
 - [Kishan Tripathi](https://github.com/GhostFoxSledgehammer)
 - [Divyansh Gupta](https://github.com/The-Divyansh)
 - [Akanksha Kashyap](https://github.com/akankshakashyap)
-
 
