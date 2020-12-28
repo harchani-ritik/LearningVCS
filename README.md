@@ -105,3 +105,8 @@
 ## COVID BATCH
 - [Kishan Tripathi](https://github.com/GhostFoxSledgehammer)
 - [Harshit Ranjan](https://github.com/0xHarshit)
+- [Misra Gautam Rajeev](https://github.com/Darkknight131714)
+- [Danish Jamwal](https://github.com/DanishJamwal)
+- [Bipul Kumar](https://github.com/bipulkmr-crypto)
+- [Kishan Tripathi](https://github.com/GhostFoxSledgehammer)
+
