@@ -103,16 +103,13 @@
 - [Prince Kumar](https://github.com/Princeraaz)
 
 ## COVID BATCH
+- [Ashok Malhotra](https://github.com/AshokMalhotra23)
 - [Vasu Mittal](https://github.com/vimulatus)
 - [Mitul Varshney](https://github.com/Mitul16)
 - [Harshit Ranjan](https://github.com/0xHarshit)
 - [Misra Gautam Rajeev](https://github.com/Darkknight131714)
 - [Danish Jamwal](https://github.com/DanishJamwal)
 - [Bipul Kumar](https://github.com/bipulkmr-crypto)
-<<<<<<< HEAD
 - [Raghav Agarwal](https://github.com/rag-hav)
-=======
 - [Kishan Tripathi](https://github.com/GhostFoxSledgehammer)
 - [Akanksha Kashyap](https://github.com/akankshakashyap)
->>>>>>> added akanksha kashyap to readme
-
