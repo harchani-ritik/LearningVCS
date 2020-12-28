@@ -114,3 +114,5 @@
 - [Bipul Kumar](https://github.com/bipulkmr-crypto)
 - [Raghav Goel](https://github.com/raghavgoel25)
 - [Raghav Agarwal](https://github.com/rag-hav)
+- [Kishan Tripathi](https://github.com/GhostFoxSledgehammer)
+- [Akanksha Kashyap](https://github.com/akankshakashyap)
