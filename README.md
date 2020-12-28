@@ -117,6 +117,7 @@
 - [Misra Gautam Rajeev](https://github.com/Darkknight131714)
 - [Danish Jamwal](https://github.com/DanishJamwal)
 - [Bipul Kumar](https://github.com/bipulkmr-crypto)
+- [Gagan Bansal](https://github.com/gaganbansal-geek)
 - [Diya Waghmare](https://github.com/diyawaghmare)
 - [Baljot Singh](https://github.com/singhbaljot)
 - [Raghav Goel](https://github.com/raghavgoel25)
