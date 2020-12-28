@@ -164,6 +164,7 @@
 - [Aniket Kshirsagar](https://github.com/AniketKshirsagar21)
 - [Prajjwal Bhatt](https://github.com/D-Big-B)
 - [Jitu Rajak](https://github.com/jitu6202)
+- [Pratyaksh Singh](https://github.com/pSN0W)
 
 
 
