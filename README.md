@@ -103,6 +103,7 @@
 - [Prince Kumar](https://github.com/Princeraaz)
 
 ## COVID BATCH
+- [Mallik Prabhanjan](https://github.com/vemulapandu)
 - [Ashok Malhotra](https://github.com/AshokMalhotra23)
 - [Vasu Mittal](https://github.com/vimulatus)
 - [Mitul Varshney](https://github.com/Mitul16)
