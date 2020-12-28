@@ -102,7 +102,7 @@
 - [Ritik](https://github.com/ageofsagittarius)
 - [Prince Kumar](https://github.com/Princeraaz)
 
-## COVID BATCH
+## 2k20 BATCH
 - [Vasu Mittal](https://github.com/vimulatus)
 - [Mitul Varshney](https://github.com/Mitul16)
 - [Harshit Ranjan](https://github.com/0xHarshit)
@@ -110,4 +110,5 @@
 - [Danish Jamwal](https://github.com/DanishJamwal)
 - [Bipul Kumar](https://github.com/bipulkmr-crypto)
 - [Raghav Agarwal](https://github.com/rag-hav)
+- [Abhay Singh](https://github.com/ABHAY0O7)
 
