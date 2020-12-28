@@ -120,4 +120,5 @@
 - [Kishan Tripathi](https://github.com/GhostFoxSledgehammer)
 - [Divyansh Gupta](https://github.com/The-Divyansh)
 - [Akanksha Kashyap](https://github.com/akankshakashyap)
+- [Jitu Rajak](https://github.com/jitu6202)
 
