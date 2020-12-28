@@ -104,3 +104,4 @@
 
 ## COVID BATCH
 - [Kishan Tripathi](https://github.com/GhostFoxSledgehammer)
+- [Ravi Utsav](https://github.com/raviutsav)
