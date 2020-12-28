@@ -103,6 +103,8 @@
 - [Prince Kumar](https://github.com/Princeraaz)
 
 ## COVID BATCH
+- [Mallik Prabhanjan](https://github.com/vemulapandu)
+- [Ashok Malhotra](https://github.com/AshokMalhotra23)
 - [Vasu Mittal](https://github.com/vimulatus)
 - [Mitul Varshney](https://github.com/Mitul16)
 - [Harshit Ranjan](https://github.com/0xHarshit)
@@ -114,5 +116,8 @@
 - [Shreya Shrotriya](https://github.com/ShreyaShrotriya)
 =======
 - [Raghav Agarwal](https://github.com/rag-hav)
+<<<<<<< HEAD
 >>>>>>> upstream/master
 
+=======
+>>>>>>> upstream/master
