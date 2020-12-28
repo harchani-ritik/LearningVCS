@@ -120,6 +120,7 @@
 - [Baljot Singh](https://github.com/singhbaljot)
 - [Raghav Goel](https://github.com/raghavgoel25)
 - [Raghav Agarwal](https://github.com/rag-hav)
+- [Shashwat Mittal](https://github.com/Shashwat-Mittal)
 - [Anupam raj](https://github.com/anupamraj2001)
 - [Aaditya Rathod](https://github.com/aadityarathod7)
 - [Hrigved Goverdhan](https://github.com/HeliosRG)
