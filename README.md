@@ -117,6 +117,7 @@
 - [Baljot Singh](https://github.com/singhbaljot)
 - [Raghav Goel](https://github.com/raghavgoel25)
 - [Raghav Agarwal](https://github.com/rag-hav)
+- [Vimal Vinayak](https://github.com/its-vimal)
 - [Akshaj Kansal](https://github.com/Akshaj-Kansal)
 - [Kirti](https://github.com/codesanta142)
 - [Pranav Raj](https://github.com/rajpranav63)
