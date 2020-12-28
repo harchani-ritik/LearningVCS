@@ -103,3 +103,4 @@
 - [Prince Kumar](https://github.com/Princeraaz)
 
 ## COVID BATCH
+- [Mitul Varshney](https://github.com/Mitul16)
