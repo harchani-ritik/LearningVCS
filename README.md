@@ -101,6 +101,7 @@
 - [Sumit Kumar Sahu](https://github.com/phantom654)
 - [Ritik](https://github.com/ageofsagittarius)
 - [Prince Kumar](https://github.com/Princeraaz)
+- Aman Rubey(https://github.com/amanrubey)
 
 ## COVID BATCH
 - [Nikita](https://github.com/Nikita9344)
@@ -113,5 +114,10 @@
 - [Misra Gautam Rajeev](https://github.com/Darkknight131714)
 - [Danish Jamwal](https://github.com/DanishJamwal)
 - [Bipul Kumar](https://github.com/bipulkmr-crypto)
+- [Raghav Goel](https://github.com/raghavgoel25)
 - [Raghav Agarwal](https://github.com/rag-hav)
+- [Pranav Raj](https://github.com/rajpranav63)
+- [Kishan Tripathi](https://github.com/GhostFoxSledgehammer)
+- [Divyansh Gupta](https://github.com/The-Divyansh)
+- [Akanksha Kashyap](https://github.com/akankshakashyap)
 
