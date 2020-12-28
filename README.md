@@ -110,5 +110,5 @@
 - [Danish Jamwal](https://github.com/DanishJamwal)
 - [Bipul Kumar](https://github.com/bipulkmr-crypto)
 - [Raghav Agarwal](https://github.com/rag-hav)
-- [Medha Tiwari](https://github.com/medhatiwariS)
+- [Medha Tiwari](https://github.com/medhatiwari)
 
