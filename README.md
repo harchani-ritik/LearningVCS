@@ -117,6 +117,7 @@
 - [Misra Gautam Rajeev](https://github.com/Darkknight131714)
 - [Danish Jamwal](https://github.com/DanishJamwal)
 - [Bipul Kumar](https://github.com/bipulkmr-crypto)
+- [Shreya Shrotriya](https://github.com/ShreyaShrotriya)
 - [Gagan Bansal](https://github.com/gaganbansal-geek)
 - [Diya Waghmare](https://github.com/diyawaghmare)
 - [Baljot Singh](https://github.com/singhbaljot)
@@ -143,6 +144,7 @@
 - [Pranav Raj](https://github.com/rajpranav63)
 - [Divyansh Gupta](https://github.com/The-Divyansh)
 - [Akanksha Kashyap](https://github.com/akankshakashyap)
+
 
 
 
