@@ -120,6 +120,7 @@
 - [Baljot Singh](https://github.com/singhbaljot)
 - [Raghav Goel](https://github.com/raghavgoel25)
 - [Raghav Agarwal](https://github.com/rag-hav)
+- [Aaditya Rathod](https://github.com/aadityarathod7)
 - [Hrigved Goverdhan](https://github.com/HeliosRG)
 - [Amogh Targe](https://github.com/amogh18t)
 - [shivam kumar](https://github.com/shivamhaz444)
@@ -137,5 +138,6 @@
 - [Pranav Raj](https://github.com/rajpranav63)
 - [Divyansh Gupta](https://github.com/The-Divyansh)
 - [Akanksha Kashyap](https://github.com/akankshakashyap)
+
 
 
