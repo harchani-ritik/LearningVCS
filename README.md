@@ -110,4 +110,5 @@
 - [Danish Jamwal](https://github.com/DanishJamwal)
 - [Bipul Kumar](https://github.com/bipulkmr-crypto)
 - [Raghav Agarwal](https://github.com/rag-hav)
+- [Manpreet Singh](https://github.com/AshuZ-dot)
 
