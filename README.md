@@ -104,8 +104,8 @@
 - [Aman Rubey](https://github.com/amanrubey)
 
 ## COVID BATCH
+- [Vineeth Kumar Munigyala](https://github.com/VineethKumarM)
 - [Rushil Patra](https://github.com/rushilpatra)
-- [Kishan Tripathi](https://github.com/GhostFoxSledgehammer)
 - [Suraj Sarmah Pathak](https://github.com/the-grignard-reagent)
 - [Nikita](https://github.com/Nikita9344)
 - [Pratik Sarkate](https://github.com/Pratik-Sarkate)
@@ -135,7 +135,6 @@
 - [Akshaj Kansal](https://github.com/Akshaj-Kansal)
 - [Kirti](https://github.com/codesanta142)
 - [Pranav Raj](https://github.com/rajpranav63)
-- [Kishan Tripathi](https://github.com/GhostFoxSledgehammer)
 - [Divyansh Gupta](https://github.com/The-Divyansh)
 - [Akanksha Kashyap](https://github.com/akankshakashyap)
 
