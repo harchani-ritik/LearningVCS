@@ -104,6 +104,7 @@
 - [Aman Rubey](https://github.com/amanrubey)
 
 ## COVID BATCH
+- [Aditya Biswakarma](https://github.com/AdityaBkIIITA)
 - [Vineeth Kumar Munigyala](https://github.com/VineethKumarM)
 - [Rushil Patra](https://github.com/rushilpatra)
 - [Suraj Sarmah Pathak](https://github.com/the-grignard-reagent)
