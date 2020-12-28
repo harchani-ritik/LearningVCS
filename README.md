@@ -156,10 +156,8 @@
 - [Pranav Raj](https://github.com/rajpranav63)
 - [Divyansh Gupta](https://github.com/The-Divyansh)
 - [Akanksha Kashyap](https://github.com/akankshakashyap)
+- [Prajjwal Bhatt](https://github.com/D-Big-B)
 - [Jitu Rajak](https://github.com/jitu6202)
-
-
-
 
 
 
