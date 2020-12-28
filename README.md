@@ -117,6 +117,7 @@
 - [Baljot Singh](https://github.com/singhbaljot)
 - [Raghav Goel](https://github.com/raghavgoel25)
 - [Raghav Agarwal](https://github.com/rag-hav)
+- [Shivanng Puri](https://github.com/shxvxnng)
 - [Priyamvada Priyadarshani](https://github.com/Priyamvada-iiita)
 - [Shivam Coli](https://github.com/Shivamcoli)
 - [Naman Kaushal](https://github.com/Namankaushal)
