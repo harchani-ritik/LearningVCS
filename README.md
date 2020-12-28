@@ -110,4 +110,5 @@
 - [Danish Jamwal](https://github.com/DanishJamwal)
 - [Bipul Kumar](https://github.com/bipulkmr-crypto)
 - [Raghav Agarwal](https://github.com/rag-hav)
+- [Sarthak Dalmia](https://github.com/sarthak-1110)
 
