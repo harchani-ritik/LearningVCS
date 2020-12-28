@@ -101,8 +101,10 @@
 - [Sumit Kumar Sahu](https://github.com/phantom654)
 - [Ritik](https://github.com/ageofsagittarius)
 - [Prince Kumar](https://github.com/Princeraaz)
+- Aman Rubey(https://github.com/amanrubey)
 
 ## COVID BATCH
+- [Nikita](https://github.com/Nikita9344)
 - [Pratik Sarkate](https://github.com/Pratik-Sarkate)
 - [Mallik Prabhanjan](https://github.com/vemulapandu)
 - [Ashok Malhotra](https://github.com/AshokMalhotra23)
@@ -115,4 +117,8 @@
 - [Raghav Goel](https://github.com/raghavgoel25)
 - [Raghav Agarwal](https://github.com/rag-hav)
 - [Kirti](https://github.com/codesanta142)
+- [Pranav Raj](https://github.com/rajpranav63)
+- [Kishan Tripathi](https://github.com/GhostFoxSledgehammer)
+- [Divyansh Gupta](https://github.com/The-Divyansh)
+- [Akanksha Kashyap](https://github.com/akankshakashyap)
 
