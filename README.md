@@ -103,4 +103,5 @@
 - [Prince Kumar](https://github.com/Princeraaz)
 
 ## COVID BATCH
--[Bipul Kumar](https://github.com/bipulkmr-crypto)
+- [Bipul Kumar](https://github.com/bipulkmr-crypto)
+- [Kishan Tripathi](https://github.com/GhostFoxSledgehammer)
