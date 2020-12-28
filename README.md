@@ -104,6 +104,8 @@
 - Aman Rubey(https://github.com/amanrubey)
 
 ## COVID BATCH
+- [Kishan Tripathi](https://github.com/GhostFoxSledgehammer)
+- [Suraj Sarmah Pathak](https://github.com/the-grignard-reagent)
 - [Nikita](https://github.com/Nikita9344)
 - [Pratik Sarkate](https://github.com/Pratik-Sarkate)
 - [Mallik Prabhanjan](https://github.com/vemulapandu)
@@ -130,6 +132,5 @@
 - [Kishan Tripathi](https://github.com/GhostFoxSledgehammer)
 - [Divyansh Gupta](https://github.com/The-Divyansh)
 - [Akanksha Kashyap](https://github.com/akankshakashyap)
-
 
 
