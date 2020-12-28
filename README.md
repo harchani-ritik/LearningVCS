@@ -120,6 +120,7 @@
 - [Baljot Singh](https://github.com/singhbaljot)
 - [Raghav Goel](https://github.com/raghavgoel25)
 - [Raghav Agarwal](https://github.com/rag-hav)
+- [Amogh Targe](https://github.com/amogh18t)
 - [shivam kumar](https://github.com/shivamhaz444)
 - [Yashpalsinh Chauhan](https://github.com/yashpalsinh6)
 - [Kartik Sharma](https://github.com/kartiks1309)
