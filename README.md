@@ -126,6 +126,7 @@
 - [Baljot Singh](https://github.com/singhbaljot)
 - [Raghav Goel](https://github.com/raghavgoel25)
 - [Raghav Agarwal](https://github.com/rag-hav)
+- [sathwik kuppam](https://github.com/Ksathwik03) 
 - [Ravi Utsav](https://github.com/raviutsav)
 - [Khush Kanjani](https://github.com/FineSpine)
 - [Parv Choudhary](https://github.com/Parvchoudhary)
