@@ -104,3 +104,4 @@
 
 ## COVID BATCH
 - [Kishan Tripathi](https://github.com/GhostFoxSledgehammer)
+- [Suraj Sarmah Pathak](https://github.com/the-grignard-reagent)
