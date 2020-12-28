@@ -109,4 +109,6 @@
 - [Danish Jamwal](https://github.com/DanishJamwal)
 - [Bipul Kumar](https://github.com/bipulkmr-crypto)
 - [Kishan Tripathi](https://github.com/GhostFoxSledgehammer)
+- [Gagan Bansal](https://github.com/gaganbansal-geek)
+
 
