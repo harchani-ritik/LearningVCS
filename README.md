@@ -114,6 +114,7 @@
 - [Misra Gautam Rajeev](https://github.com/Darkknight131714)
 - [Danish Jamwal](https://github.com/DanishJamwal)
 - [Bipul Kumar](https://github.com/bipulkmr-crypto)
+- [Baljot Singh](https://github.com/singhbaljot)
 - [Raghav Goel](https://github.com/raghavgoel25)
 - [Raghav Agarwal](https://github.com/rag-hav)
 - [Kirti](https://github.com/codesanta142)
@@ -121,4 +122,5 @@
 - [Kishan Tripathi](https://github.com/GhostFoxSledgehammer)
 - [Divyansh Gupta](https://github.com/The-Divyansh)
 - [Akanksha Kashyap](https://github.com/akankshakashyap)
+
 
