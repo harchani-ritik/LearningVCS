@@ -103,6 +103,7 @@
 - [Prince Kumar](https://github.com/Princeraaz)
 
 ## COVID BATCH
+- [Ashok Malhotra](https://github.com/AshokMalhotra23)
 - [Vasu Mittal](https://github.com/vimulatus)
 - [Mitul Varshney](https://github.com/Mitul16)
 - [Harshit Ranjan](https://github.com/0xHarshit)
@@ -110,4 +111,3 @@
 - [Danish Jamwal](https://github.com/DanishJamwal)
 - [Bipul Kumar](https://github.com/bipulkmr-crypto)
 - [Raghav Agarwal](https://github.com/rag-hav)
-
