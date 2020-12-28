@@ -120,6 +120,7 @@
 - [Baljot Singh](https://github.com/singhbaljot)
 - [Raghav Goel](https://github.com/raghavgoel25)
 - [Raghav Agarwal](https://github.com/rag-hav)
+- [Yashpalsinh Chauhan](https://github.com/yashpalsinh6)
 - [Kartik Sharma](https://github.com/kartiks1309)
 - [Hardik Arora](https://github.com/hardikarora2)
 - [Parth Soni](https://github.com/parth1007)
@@ -134,5 +135,4 @@
 - [Kishan Tripathi](https://github.com/GhostFoxSledgehammer)
 - [Divyansh Gupta](https://github.com/The-Divyansh)
 - [Akanksha Kashyap](https://github.com/akankshakashyap)
-
 
