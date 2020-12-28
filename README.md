@@ -103,8 +103,16 @@
 - [Prince Kumar](https://github.com/Princeraaz)
 
 ## COVID BATCH
+- [Vasu Mittal](https://github.com/vimulatus)
+- [Mitul Varshney](https://github.com/Mitul16)
+- [Harshit Ranjan](https://github.com/0xHarshit)
+- [Misra Gautam Rajeev](https://github.com/Darkknight131714)
 - [Danish Jamwal](https://github.com/DanishJamwal)
 - [Bipul Kumar](https://github.com/bipulkmr-crypto)
+<<<<<<< HEAD
 - [Kishan Tripathi](https://github.com/GhostFoxSledgehammer)
 - [Shreya Shrotriya](https://github.com/ShreyaShrotriya)
+=======
+- [Raghav Agarwal](https://github.com/rag-hav)
+>>>>>>> upstream/master
 
