@@ -128,6 +128,7 @@
 - [Baljot Singh](https://github.com/singhbaljot)
 - [Raghav Goel](https://github.com/raghavgoel25)
 - [Raghav Agarwal](https://github.com/rag-hav)
+- [Vaishnav Kamarti](https://github.com/vaishnav-192)
 - [Saloni Doshi](https://github.com/saloni33)
 - [Mudit Agarwal](https://github.com/Mudit018)
 - [Anubhav Kumar Rao](https://github.com/anubhav100rao)
