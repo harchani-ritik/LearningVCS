@@ -116,5 +116,5 @@
 - [Raghav Agarwal](https://github.com/rag-hav)
 - [Pranav Raj](https://github.com/rajpranav63)
 - [Kishan Tripathi](https://github.com/GhostFoxSledgehammer)
+- [Divyansh Gupta](https://github.com/The-Divyansh)
 - [Akanksha Kashyap](https://github.com/akankshakashyap)
-
