@@ -108,4 +108,4 @@
 - [Danish Jamwal](https://github.com/DanishJamwal)
 - [Bipul Kumar](https://github.com/bipulkmr-crypto)
 - [Kishan Tripathi](https://github.com/GhostFoxSledgehammer)
-
+- [Diya Waghmare](https://github.com/diyawaghmare)
