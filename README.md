@@ -118,6 +118,8 @@
 - [Misra Gautam Rajeev](https://github.com/Darkknight131714)
 - [Danish Jamwal](https://github.com/DanishJamwal)
 - [Bipul Kumar](https://github.com/bipulkmr-crypto)
+- [utkarsh](https://github.com/UTKARSH1210-tech)
+- [Lasya Sree](https://github.com/lasya404)
 - [Sourav Dey](https://github.com/souvenger)
 - [Shreya Shrotriya](https://github.com/ShreyaShrotriya)
 - [Gagan Bansal](https://github.com/gaganbansal-geek)
@@ -125,6 +127,13 @@
 - [Baljot Singh](https://github.com/singhbaljot)
 - [Raghav Goel](https://github.com/raghavgoel25)
 - [Raghav Agarwal](https://github.com/rag-hav)
+- [Mudit Agarwal](https://github.com/Mudit018)
+- [Anubhav Kumar Rao](https://github.com/anubhav100rao)
+- [Aman Kumar](https://github.com/aman1510)
+- [Manpreet Singh](https://github.com/AshuZ-dot)
+- [Srujana Marpina](https://github.com/Srujana2505)
+- [sathwik kuppam](https://github.com/Ksathwik03) 
+- [Ravi Utsav](https://github.com/raviutsav)
 - [Khush Kanjani](https://github.com/FineSpine)
 - [Parv Choudhary](https://github.com/Parvchoudhary)
 - [Shashwat Mittal](https://github.com/Shashwat-Mittal)
@@ -148,6 +157,9 @@
 - [Divyansh Gupta](https://github.com/The-Divyansh)
 - [Akanksha Kashyap](https://github.com/akankshakashyap)
 - [Prajjwal Bhatt](https://github.com/D-Big-B)
+- [Jitu Rajak](https://github.com/jitu6202)
+
+
 
 
 
