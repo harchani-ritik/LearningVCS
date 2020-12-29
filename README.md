@@ -197,3 +197,4 @@
 - [Anushtha Bageria](https://github.com/anu-phoenix)
 - [Medha Tiwari](https://github.com/medhatiwari)
 - [Anuj Chaturvedi](https://github.com/anujchaturvedi5748)
+- [Archit Dashora](https://github.com/Archit2002)
