@@ -272,6 +272,7 @@
 - [MOHD SHADAAN HUSSAIN](https://github.com/ShadaanHusain)
 - [Rishabh Jain](https://github.com/RapaRishabh)
 - [MOHD SAMEER SHEIKH](https://github.com/mohammad-sameer-sheikh)
+- [Shubhi Pandey](http://www.github.com/in/shubhi-pandey-ab2b10)
 - [Utkarsh Singh](https://github.com/Utkarsh7867)
 - [Harsh Kant Bhatnagar](https://github.com/hkbhd)
 - [Ritik Datika](https://github.com/Ritik-datika)
