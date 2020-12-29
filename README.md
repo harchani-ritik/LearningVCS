@@ -199,6 +199,8 @@
 - [karus manisha](https://github.com/sanjay395)
 - [Agrim Verma](https://github.com/Agrim-69/LearningVCS-1.git)
 - [Yash Chaurasia](https://github.com/Yash091)
+- [Palak Ahuja](https://github.com/Palak-2109)
+- [Anushtha Bageria](https://github.com/anu-phoenix)
 - [Anushtha Bageria](https://github.com/anu-phoenix)
 - [Medha Tiwari](https://github.com/medhatiwari)
 - [Anuj Chaturvedi](https://github.com/anujchaturvedi5748)
