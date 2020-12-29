@@ -186,3 +186,4 @@
 - [Yash Chaurasia](https://github.com/Yash091)
 - [Anushtha Bageria](https://github.com/anu-phoenix)
 - [Anuj Chaturvedi](https://github.com/anujchaturvedi5748)
+- [Devesh Parte](https://github.com/sluggish27)
