@@ -191,6 +191,7 @@
 - [Mayukh Biswas](https://github.com/ma-you-kh)
 - [Manav Agarwal](https://github.com/Manav1410)
 - [Rankit](https://github.com/rankit2001)
+- [Prakhar jalan](https://github.com/jalanprakhar)
 - [Suket Bhola](https://github.com/SuketB)
 - [Ekagra Sinha](https://github.com/Ekagra)
 - [Gude Lakshmi](https://github.com/gudelakshmi)
