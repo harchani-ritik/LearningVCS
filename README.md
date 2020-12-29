@@ -177,4 +177,4 @@
 - [Mayukh Biswas](https://github.com/ma-you-kh)
 - [Rankit](https://github.com/rankit2001)
 - [Suket Bhola](https://github.com/SuketB)
-- [SHantanu Chaudhary](https://github.com/underoot-iota)
+- [Shantanu Chaudhary](https://github.com/underoot-iota)
