@@ -174,6 +174,7 @@
 - [Kishan Tripathi](https://github.com/GhostFoxSledgehammer)
 - [Divyansh Gupta](https://github.com/The-Divyansh)
 - [Akanksha Kashyap](https://github.com/akankshakashyap)
+- [Prakhar Chitravanshi](https://github.com/PrakCh)
 - [Kunal Prajapati](https://github.com/21-kunal)
 - [Aniket Kshirsagar](https://github.com/AniketKshirsagar21)
 - [Prajjwal Bhatt](https://github.com/D-Big-B)
@@ -218,4 +219,3 @@
 - [Anushtha Bageria](https://github.com/anu-phoenix)
 - [Medha Tiwari](https://github.com/medhatiwari)
 - [Anuj Chaturvedi](https://github.com/anujchaturvedi5748)
-
