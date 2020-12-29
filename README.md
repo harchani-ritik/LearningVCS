@@ -181,6 +181,7 @@
 - [sukrit kumar](https://github.com/sukrit2906)
 - [Mayukh Biswas](https://github.com/ma-you-kh)
 - [Rankit](https://github.com/rankit2001)
+- [Aditya Verma](https://github.com/homewardgamer)
 - [Suket Bhola](https://github.com/SuketB)
 - [karus manisha](https://github.com/sanjay395)
 - [Agrim Verma](https://github.com/Agrim-69/LearningVCS-1.git)
