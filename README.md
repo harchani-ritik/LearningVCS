@@ -248,3 +248,4 @@
 - [Satvik Watts](https://github.com/SatvikWatts)
 - [Shivam Katiyar](https://github.com/krypton001)
 - [Sanjeet](https://github.com/sinifaa)
+ -[Ritwik Rajput](https://github.com/kaneki-ken260)
