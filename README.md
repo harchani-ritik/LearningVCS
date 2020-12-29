@@ -104,6 +104,7 @@
 - [Aman Rubey](https://github.com/amanrubey)
 
 ## COVID BATCH
+- [Arjav Kanadia](https://github.com/DeadliestDemon)
 - [Abhinav Goel](https://github.com/goelabhinav2001)
 - [Himanshu Yadav](https://github.com/SeriousHY)
 - [Samarth Goel](https://github.com/Sam-commit)
