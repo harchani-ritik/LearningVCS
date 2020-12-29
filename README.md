@@ -189,6 +189,7 @@
 - [Manav Agarwal](https://github.com/Manav1410)
 - [Rankit](https://github.com/rankit2001)
 - [Suket Bhola](https://github.com/SuketB)
+- [Ekagra Sinha](https://github.com/Ekagra)
 - [Gude Lakshmi](https://github.com/gudelakshmi)
 - [Tanushree](https://github.com/Tanushree-coder)
 - [Deepanshu Mahto](https://github.com/deepanshumahto)
