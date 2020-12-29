@@ -267,6 +267,7 @@
 - [Karan Chhabra](https://github.com/karankc23)
 - [Sanjeet](https://github.com/sinifaa)
 - [MOHD SAMEER SHEIKH](https://github.com/mohammad-sameer-sheikh)
+- [Utkarsh Singh](https://github.com/Utkarsh7867)
 - [Harsh Kant Bhatnagar](https://github.com/hkbhd)
 - [Ritik Datika](https://github.com/Ritik-datika)
 - [akshitha ketiri](https://github.com/akshithak552)
