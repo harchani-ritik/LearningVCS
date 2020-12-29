@@ -193,6 +193,7 @@
 - [Manav Agarwal](https://github.com/Manav1410)
 - [Rankit](https://github.com/rankit2001)
 - [Suket Bhola](https://github.com/SuketB)
+- [Lalit](https://github.com/lit-lalit)
 - [Tarun Jayadevan](https://github.com/tarun4-cmd)
 - [Gaurav Katiyar](https://github.com/gaurav1058)
 - [Anjali Sahu](https://github.com/99anjali)
