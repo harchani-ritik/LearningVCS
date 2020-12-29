@@ -165,6 +165,8 @@
 - [Prajjwal Bhatt](https://github.com/D-Big-B)
 - [Jitu Rajak](https://github.com/jitu6202)
 - [Ishaan kaustav](https://github.com/ishaan701)
+- [Archit Dashora](https://github.com/Archit2002)
+)
 
 
 
