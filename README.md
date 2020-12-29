@@ -268,6 +268,7 @@
 - [Karan Chhabra](https://github.com/karankc23)
 - [Sanjeet](https://github.com/sinifaa)
 - [MOHD SAMEER SHEIKH](https://github.com/mohammad-sameer-sheikh)
+- [Sudhanshu Sanjay Raut](https://github.com/DEVILSR7)
 - [Sarthak](https://github.com/daniel-aracquine)
 - [INDER SONU](https://github.com/INDER-S)
 - [Ambikesh Arman](https://github.com/AmbikeshArman)
