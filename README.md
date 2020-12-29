@@ -104,6 +104,7 @@
 - [Aman Rubey](https://github.com/amanrubey)
 
 ## COVID BATCH
+- [Himanshu Yadav](https://github.com/SeriousHY)
 - [Samarth Goel](https://github.com/Sam-commit)
 - [Aditya Biswakarma](https://github.com/AdityaBkIIITA)
 - [Vineeth Kumar Munigyala](https://github.com/VineethKumarM)
@@ -122,6 +123,7 @@
 - [Baljot Singh](https://github.com/singhbaljot)
 - [Raghav Goel](https://github.com/raghavgoel25)
 - [Raghav Agarwal](https://github.com/rag-hav)
+- [Naman Yadav](https://github.com/Naman-11)
 - [Pedduri Meghana](https://github.com/meghana-pedduri)
 - [Vishesh Jain](https://github.com/visheshjain01)
 - [utkarsh](https://github.com/UTKARSH1210-tech)
@@ -171,6 +173,8 @@
 - [Aniket Kshirsagar](https://github.com/AniketKshirsagar21)
 - [Prajjwal Bhatt](https://github.com/D-Big-B)
 - [Jitu Rajak](https://github.com/jitu6202)
+- [Taniya Gupta](https://github.com/taniya-27)
+- [Abhinav Singh](https://github.com/Abhisin90) 
 - [Pratyaksh Singh](https://github.com/pSN0W)
 - [Abhay Singh](https://github.com/ABHAY0O7)
 - [sukrit kumar](https://github.com/sukrit2906)
@@ -178,3 +182,7 @@
 - [Rankit](https://github.com/rankit2001)
 - [Suket Bhola](https://github.com/SuketB)
 - [karus manisha](https://github.com/sanjay395)
+- [Agrim Verma](https://github.com/Agrim-69/LearningVCS-1.git)
+- [Yash Chaurasia](https://github.com/Yash091)
+- [Anushtha Bageria](https://github.com/anu-phoenix)
+- [Anuj Chaturvedi](https://github.com/anujchaturvedi5748)
