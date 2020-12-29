@@ -242,6 +242,7 @@
 - [Medha Tiwari](https://github.com/medhatiwari)
 - [Supriya Patidar](https://github.com/supriya-045)
 - [Anuj Chaturvedi](https://github.com/anujchaturvedi5748)
+- [Donthoju Raghava](https://github.com/Raghava-IIITA)
 - [Charishma Kongani](http://github.com/Charishma-K)
 - [Aashish Agrawal](https://github.com/AashishA11)
 - [HariPrasath R](https://github.com/HariPrasath-3)
