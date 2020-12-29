@@ -128,6 +128,7 @@
 - [Baljot Singh](https://github.com/singhbaljot)
 - [Raghav Goel](https://github.com/raghavgoel25)
 - [Raghav Agarwal](https://github.com/rag-hav)
+- [Tanmay Walekar](https://github.com/tanmaywalekar)
 - [Janhavi Bawaskar](https://github.com/janhaviiii)
 - [Anurag Gaurav](https://github.com/Anurag30598)
 - [Kavita](https://github.com/Kavita-Dhamot)
