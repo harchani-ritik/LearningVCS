@@ -239,6 +239,7 @@
 - [Anushtha Bageria](https://github.com/anu-phoenix)
 - [Medha Tiwari](https://github.com/medhatiwari)
 - [Anuj Chaturvedi](https://github.com/anujchaturvedi5748)
+- [Aashish Agrawal](https://github.com/AashishA11)
 - [HariPrasath R](https://github.com/HariPrasath-3)
 - [Mohit Kumar](https://github.com/carnagekyzen)
 - [Jay suthar](https://github.com/Jay-Suthar)
