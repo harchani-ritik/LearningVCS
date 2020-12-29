@@ -270,6 +270,7 @@
 - [Karan Chhabra](https://github.com/karankc23)
 - [Sanjeet](https://github.com/sinifaa)
 - [MOHD SAMEER SHEIKH](https://github.com/mohammad-sameer-sheikh)
+- [Lakshya Bhardwaj](https://github.com/lakshya-123)
 - [Bhabya Bani](https://github.com/BhabyaBani)
 - [Shailesh Tiwari](https://github.com/shl3sh)
 - [Sudhanshu Sanjay Raut](https://github.com/DEVILSR7)
