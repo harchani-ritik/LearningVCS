@@ -193,6 +193,7 @@
 - [Manav Agarwal](https://github.com/Manav1410)
 - [Rankit](https://github.com/rankit2001)
 - [Suket Bhola](https://github.com/SuketB)
+- [Gaurav Katiyar](https://github.com/gaurav1058)
 - [Anjali Sahu](https://github.com/99anjali)
 - [Mrunali Adhal](https://github.com/Mrunali247)
 - [Kartik Gupta](https://github.com/karrocks)
