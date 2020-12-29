@@ -14,7 +14,6 @@
 - [Pradhuman Singh Baid](https://github.com/pradhuman1)
 
 ## 2K19 BATCH
-- [Abhinav Goel](https://github.com/goelabhinav2001)
 - [Anirudh Agrawal](https://github.com/anirudhhhh)
 - [Shreyas Gupta](https://github.com/sggts04)
 - [Alka Trivedi](https://github.com/Alka-git12)
