@@ -235,4 +235,5 @@
 - [Anushtha Bageria](https://github.com/anu-phoenix)
 - [Medha Tiwari](https://github.com/medhatiwari)
 - [Anuj Chaturvedi](https://github.com/anujchaturvedi5748)
+- [Satvik Watts](https://github.com/SatvikWatts)
 - [Shivam Katiyar](https://github.com/krypton001)
