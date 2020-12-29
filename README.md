@@ -101,7 +101,7 @@
 - [Sumit Kumar Sahu](https://github.com/phantom654)
 - [Ritik](https://github.com/ageofsagittarius)
 - [Prince Kumar](https://github.com/Princeraaz)
-- [Aman Rubey](https://github.com/amanrubey)
+- Aman Rubey(https://github.com/amanrubey)
 
 ## COVID BATCH
 - [Samarth Goel](https://github.com/Sam-commit)
@@ -119,6 +119,10 @@
 - [Misra Gautam Rajeev](https://github.com/Darkknight131714)
 - [Danish Jamwal](https://github.com/DanishJamwal)
 - [Bipul Kumar](https://github.com/bipulkmr-crypto)
+- [Baljot Singh](https://github.com/singhbaljot)
+- [Raghav Goel](https://github.com/raghavgoel25)
+- [Raghav Agarwal](https://github.com/rag-hav)
+- [Pedduri Meghana](https://github.com/meghana-pedduri)
 - [Vishesh Jain](https://github.com/visheshjain01)
 - [utkarsh](https://github.com/UTKARSH1210-tech)
 - [Lasya Sree](https://github.com/lasya404)
@@ -159,16 +163,13 @@
 - [Akshaj Kansal](https://github.com/Akshaj-Kansal)
 - [Kirti](https://github.com/codesanta142)
 - [Pranav Raj](https://github.com/rajpranav63)
+- [Kishan Tripathi](https://github.com/GhostFoxSledgehammer)
 - [Divyansh Gupta](https://github.com/The-Divyansh)
 - [Akanksha Kashyap](https://github.com/akankshakashyap)
+- [Kunal Prajapati](https://github.com/21-kunal)
 - [Aniket Kshirsagar](https://github.com/AniketKshirsagar21)
 - [Prajjwal Bhatt](https://github.com/D-Big-B)
 - [Jitu Rajak](https://github.com/jitu6202)
+- [Pratyaksh Singh](https://github.com/pSN0W)
+- [Abhay Singh](https://github.com/ABHAY0O7)
 - [sukrit kumar](https://github.com/sukrit2906)
-
-
-
-
-
-
-
