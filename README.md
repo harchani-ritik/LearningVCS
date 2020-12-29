@@ -226,6 +226,7 @@
 - [Agrim Verma](https://github.com/Agrim-69/LearningVCS-1.git)
 - [Yash Chaurasia](https://github.com/Yash091)
 - [Anushtha Bageria](https://github.com/anu-phoenix)
+- [Aashita Chouhan](https://github.com/aashitachouhan)
 - [Anuj Chaturvedi](https://github.com/anujchaturvedi5748)
 - [Devesh Parte](https://github.com/sluggish27)
  -[Divanshu Jain](https://github.com/divanshujain-web)
