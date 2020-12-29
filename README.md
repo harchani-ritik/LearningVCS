@@ -270,6 +270,7 @@
 - [Karan Chhabra](https://github.com/karankc23)
 - [Sanjeet](https://github.com/sinifaa)
 - [MOHD SAMEER SHEIKH](https://github.com/mohammad-sameer-sheikh)
+- [NAMAN SHUKLA](https://github.com/naman-cr)
 - [Yaramakula Sasikala](https://github.com/ysasikala29)
 - [NEERAJ GUPTA](https://github.com/codelord09)
 - [Vaibhav Mustilwar](https://github.com/vaibhavmustilwar)
