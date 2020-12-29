@@ -238,6 +238,7 @@
 - [Palak Ahuja](https://github.com/Palak-2109)
 - [Anushtha Bageria](https://github.com/anu-phoenix)
 - [Medha Tiwari](https://github.com/medhatiwari)
+- [Supriya Patidar](https://github.com/supriya-045)
 - [Anuj Chaturvedi](https://github.com/anujchaturvedi5748)
 - [Charishma Kongani](http://github.com/Charishma-K)
 - [Aashish Agrawal](https://github.com/AashishA11)
