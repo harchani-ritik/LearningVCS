@@ -101,7 +101,7 @@
 - [Sumit Kumar Sahu](https://github.com/phantom654)
 - [Ritik](https://github.com/ageofsagittarius)
 - [Prince Kumar](https://github.com/Princeraaz)
-- Aman Rubey(https://github.com/amanrubey)
+- [Aman Rubey](https://github.com/amanrubey)
 
 ## COVID BATCH
 - [Samarth Goel](https://github.com/Sam-commit)
