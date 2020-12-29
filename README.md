@@ -249,3 +249,5 @@
 - [Satvik Watts](https://github.com/SatvikWatts)
 - [Shivam Katiyar](https://github.com/krypton001)
 - [Sanjeet](https://github.com/sinifaa)
+- [Karan Chhabra](https://github.com/karankc23)
+- [Sanjeet](https://github.com/sinifaa)
