@@ -266,6 +266,8 @@
 - [Shashirith](https://github.com/shashirith)
 - [Karan Chhabra](https://github.com/karankc23)
 - [Sanjeet](https://github.com/sinifaa)
+- [MOHD SAMEER SHEIKH](https://github.com/mohammad-sameer-sheikh)
+- [Ritik Datika](https://github.com/Ritik-datika)
 - [akshitha ketiri](https://github.com/akshithak552)
 - [MD Mohsin Raza](https://github.com/shin-igami)
 - [MOHD SAMEER SHEIKH](https://github.com/mohammad-sameer-sheikh)
