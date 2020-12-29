@@ -104,6 +104,7 @@
 - [Aman Rubey](https://github.com/amanrubey)
 
 ## COVID BATCH
+- [Shashwat Kumar Gautam](https://github.com/Sassyy16)
 - [Pushkal Madaan](https://github.com/XxNightLightxX)
 - [Krishnapal Panwar](https://github.com/kpsingh-20)
 - [Arjav Kanadia](https://github.com/DeadliestDemon)
