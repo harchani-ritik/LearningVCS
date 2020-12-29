@@ -269,6 +269,7 @@
 - [Shashirith](https://github.com/shashirith)
 - [Karan Chhabra](https://github.com/karankc23)
 - [Sanjeet](https://github.com/sinifaa)
+- [INDER SONU](https://github.com/INDER-S)
 - [Ambikesh Arman](https://github.com/AmbikeshArman)
 - [MOHD SHADAAN HUSSAIN](https://github.com/ShadaanHusain)
 - [Rishabh Jain](https://github.com/RapaRishabh)
