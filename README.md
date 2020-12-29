@@ -195,6 +195,7 @@
 - [Manav Agarwal](https://github.com/Manav1410)
 - [Rankit](https://github.com/rankit2001)
 - [Suket Bhola](https://github.com/SuketB)
+- [Mayank Bharati](https://github.com/MayankBharati)
 - [Ritej Dhamala](https://github.com/slashroot21)
 - [Ari Revathi](https://github.com/Revathi2306)
 - [Nihar Agarwal](https://github.com/Nihar-code)
