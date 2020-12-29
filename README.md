@@ -122,6 +122,7 @@
 - [Baljot Singh](https://github.com/singhbaljot)
 - [Raghav Goel](https://github.com/raghavgoel25)
 - [Raghav Agarwal](https://github.com/rag-hav)
+- [Pedduri Meghana](https://github.com/meghana-pedduri)
 - [Vishesh Jain](https://github.com/visheshjain01)
 - [utkarsh](https://github.com/UTKARSH1210-tech)
 - [Lasya Sree](https://github.com/lasya404)
