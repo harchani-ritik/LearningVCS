@@ -1,4 +1,4 @@
-# LearningVCS
+ # LearningVCS
 ## CO-ORDINATORS
 - [Ritik Harchani](https://github.com/harchani-ritik)
 - [Prateek Mishra](https://github.com/MiKinshu)
@@ -181,7 +181,9 @@
 - [Mayukh Biswas](https://github.com/ma-you-kh)
 - [Rankit](https://github.com/rankit2001)
 - [Suket Bhola](https://github.com/SuketB)
+- [karus manisha](https://github.com/sanjay395)
 - [Agrim Verma](https://github.com/Agrim-69/LearningVCS-1.git)
 - [Yash Chaurasia](https://github.com/Yash091)
 - [Anushtha Bageria](https://github.com/anu-phoenix)
 - [Medha Tiwari](https://github.com/medhatiwari)
+- [Anuj Chaturvedi](https://github.com/anujchaturvedi5748)
