@@ -193,6 +193,7 @@
 - [Manav Agarwal](https://github.com/Manav1410)
 - [Rankit](https://github.com/rankit2001)
 - [Suket Bhola](https://github.com/SuketB)
+- [vikas gupta](https://github.com/vikagupta)
 - [Pankaj Kumar](https://github.com/pankaj1707k)
 - [Lalit](https://github.com/lit-lalit)
 - [Tarun Jayadevan](https://github.com/tarun4-cmd)
