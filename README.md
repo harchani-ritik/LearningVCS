@@ -181,6 +181,7 @@
 - [sukrit kumar](https://github.com/sukrit2906)
 - [Mayukh Biswas](https://github.com/ma-you-kh)
 - [Rankit](https://github.com/rankit2001)
+- [Abhay Parihar](https://github.com/ABHAY0PARIHAR)
 - [Shantanu Chaudhary](https://github.com/underoot-iota)
 - [Aditya Verma](https://github.com/homewardgamer)
 - [Suket Bhola](https://github.com/SuketB)
