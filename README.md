@@ -178,6 +178,7 @@
 - [Aniket Kshirsagar](https://github.com/AniketKshirsagar21)
 - [Prajjwal Bhatt](https://github.com/D-Big-B)
 - [Jitu Rajak](https://github.com/jitu6202)
+- [Challa Lahari](https://github.com/lahari431)
 - [Kartik pal](https://github.com/Kartik114)
 - [thanmai deepthi](https://github.com/thanmai15)
 - [Piyush Agarwal](https://github.com/PiyushA24)
