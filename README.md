@@ -184,3 +184,4 @@
 - [Agrim Verma](https://github.com/Agrim-69/LearningVCS-1.git)
 - [Yash Chaurasia](https://github.com/Yash091)
 - [Anushtha Bageria](https://github.com/anu-phoenix)
+- [Telugu Navaneetha](https://github.com/Navaneetha2909/LearningVCS.git)
