@@ -123,6 +123,7 @@
 - [Baljot Singh](https://github.com/singhbaljot)
 - [Raghav Goel](https://github.com/raghavgoel25)
 - [Raghav Agarwal](https://github.com/rag-hav)
+- [Jeet Sarkar](https://github.com/J-e-e-t)
 - [Naman Yadav](https://github.com/Naman-11)
 - [Pedduri Meghana](https://github.com/meghana-pedduri)
 - [Vishesh Jain](https://github.com/visheshjain01)
