@@ -258,4 +258,4 @@
 - [Karan Chhabra](https://github.com/karankc23)
 - [Sanjeet](https://github.com/sinifaa)
 - [MOHD SAMEER SHEIKH](https://github.com/mohammad-sameer-sheikh)
-[VIPUL RANJAN SAHU](https://github.com/vipulranjansahu)
+[Vipul Ranjan Sahu](https://github.com/vipulranjansahu)
