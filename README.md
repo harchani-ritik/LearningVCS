@@ -176,6 +176,7 @@
 - [Aniket Kshirsagar](https://github.com/AniketKshirsagar21)
 - [Prajjwal Bhatt](https://github.com/D-Big-B)
 - [Jitu Rajak](https://github.com/jitu6202)
+- [thanmai deepthi](https://github.com/thanmai15)
 - [Piyush Agarwal](https://github.com/PiyushA24)
 - [Ishaan kaustav](https://github.com/ishaan701)
 - [Taniya Gupta](https://github.com/taniya-27)
