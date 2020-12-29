@@ -185,6 +185,8 @@
 - [Mayukh Biswas](https://github.com/ma-you-kh)
 - [Manav Agarwal](https://github.com/Manav1410)
 - [Rankit](https://github.com/rankit2001)
+- [Suket Bhola](https://github.com/SuketB)
+- [Himanshu Mathur](https://github.com/Himanshu2608)
 - [Katam Bala Prasanna](https://github.com/BalaCisco)
 - [Puja Saraf](https://github.com/Puja-Saraf)
 - [Shreyansh saxena](https://github.com/shreyansh090)
