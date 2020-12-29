@@ -173,6 +173,7 @@
 - [Aniket Kshirsagar](https://github.com/AniketKshirsagar21)
 - [Prajjwal Bhatt](https://github.com/D-Big-B)
 - [Jitu Rajak](https://github.com/jitu6202)
+- [Taniya Gupta](https://github.com/taniya-27)
 - [Abhinav Singh](https://github.com/Abhisin90) 
 - [Pratyaksh Singh](https://github.com/pSN0W)
 - [Abhay Singh](https://github.com/ABHAY0O7)
