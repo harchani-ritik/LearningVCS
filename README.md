@@ -176,4 +176,5 @@
 - [sukrit kumar](https://github.com/sukrit2906)
 - [Mayukh Biswas](https://github.com/ma-you-kh)
 - [Rankit](https://github.com/rankit2001)
-- [Suket Bhola](https://github.com/SuketB)
+-[Suket Bhola](https://github.com/SuketB)
+- [Prakhar jalan](https://github.com/jalanprakhar)
