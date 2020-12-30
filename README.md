@@ -260,6 +260,7 @@
 - [Satvik Watts](https://github.com/SatvikWatts)
 - [Shivam Katiyar](https://github.com/krypton001)
 - [Sanjeet](https://github.com/sinifaa)
+ -[Ritwik Rajput](https://github.com/kaneki-ken260)
 - [Aditya Magar](https://github.com/Adityamagar)
 - [Pradumn Kumar](https://github.com/Singh-Pradumn)
 - [Kunal Kaushik](https://github.com/Kunal-8789)
