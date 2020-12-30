@@ -270,6 +270,8 @@
 - [Karan Chhabra](https://github.com/karankc23)
 - [Sanjeet](https://github.com/sinifaa)
 - [MOHD SAMEER SHEIKH](https://github.com/mohammad-sameer-sheikh)
+- [KONTHAM PAVANI](https://github.com/konthampavani)
+- [MOHAMMAD MABISH MALIK](https://github.com/dark_hope)
 - [madhav badewad].(https://github.com/Madhav1234567)
 - [HIMANSHU GARG](https://github.com/InftyPi)
 - [Anshuman Jain](https://github.com/anshumanjain2010)
