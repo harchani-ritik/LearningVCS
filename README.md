@@ -201,6 +201,7 @@
 - [Manav Agarwal](https://github.com/Manav1410)
 - [Rankit](https://github.com/rankit2001)
 - [Suket Bhola](https://github.com/SuketB)
+- [Gopi krishna](https://github.com/GopiKrishnaDharavath)
 - [Jyoti Mathur](https://github.com/jmathur011)
 - [Mayank Bharati](https://github.com/MayankBharati)
 - [Ritej Dhamala](https://github.com/slashroot21)
