@@ -270,6 +270,7 @@
 - [Karan Chhabra](https://github.com/karankc23)
 - [Sanjeet](https://github.com/sinifaa)
 - [MOHD SAMEER SHEIKH](https://github.com/mohammad-sameer-sheikh)
+- [HIMANSHU GARG](https://github.com/InftyPi)
 - [Anshuman Jain](https://github.com/anshumanjain2010)
 - [ADiTYA RAJ](https://github.com/adityaraj723)
 - [NAMAN SHUKLA](https://github.com/naman-cr)
