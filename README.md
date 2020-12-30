@@ -308,5 +308,6 @@
 - [Anushka Dandawate](https://github.com/Anushka1309)
 - [Himanshu Bhawani](https://github.com/himanshu370)
 - [Abhishek Wani](http://github.com/Abhishek001-1)
+- [Mohit Rathour](https://github.com/mohit-1089)
 - [PRAHLAD NAGULA](https://github.com/PrahladNagula)
 - [Aman Rastogi](https://github.com/Amanrastogi04)
