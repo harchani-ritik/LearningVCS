@@ -246,6 +246,8 @@
 - [Palak Ahuja](https://github.com/Palak-2109)
 - [Anushtha Bageria](https://github.com/anu-phoenix)
 - [Medha Tiwari](https://github.com/medhatiwari)
+- [Anuj Chaturvedi](https://github.com/anujchaturvedi5748)
+- [shruti koshta](https://github.com/shruti1023)
 - [Supriya Patidar](https://github.com/supriya-045)
 - [Anuj Chaturvedi](https://github.com/anujchaturvedi5748)
 - [Aman Verma](https://github.com/Aman-IIITA)
