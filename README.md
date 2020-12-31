@@ -248,6 +248,7 @@
 - [Anushtha Bageria](https://github.com/anu-phoenix)
 - [Medha Tiwari](https://github.com/medhatiwari)
 - [Anuj Chaturvedi](https://github.com/anujchaturvedi5748)
+- [Vinayak Garg](https://github.com/firefourway)
 - [Harsh Garg](https://github.com/harshgarg28)
 - [shruti koshta](https://github.com/shruti1023)
 - [Supriya Patidar](https://github.com/supriya-045)
