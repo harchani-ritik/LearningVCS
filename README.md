@@ -7,8 +7,8 @@
 
 ## MEMBERS
 - [Kishan Tripathi](https://github.com/GhostFoxSledgehammer)
-- [Vishesh Mittal](https://github.com/Elemento24)
 - [Harshdeep Singh Pruthi](https://github.com/2802harsh)
+- [Vishesh Mittal](https://github.com/Elemento24)
 - [Pranav Singhal](https://github.com/singhalpranav22)
 - [Yukta Gopalani](https://github.com/yuktagopalani)
 - [Pradhuman Singh Baid](https://github.com/pradhuman1)
