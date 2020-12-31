@@ -276,6 +276,7 @@
 - [Karan Chhabra](https://github.com/karankc23)
 - [Sanjeet](https://github.com/sinifaa)
 - [MOHD SAMEER SHEIKH](https://github.com/mohammad-sameer-sheikh)
+- [Abhiram Akula](https://github.com/AbhiramAkula)
 - [Krishna Shah](https://github.com/Krishna3267)
 - [KONTHAM PAVANI](https://github.com/konthampavani)
 - [Sheethamsh Vamshi](https://github.com/SheethamshVamshi-IIITA)
