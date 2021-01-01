@@ -256,6 +256,7 @@
 - [Anuj Chaturvedi](https://github.com/anujchaturvedi5748)
 - [Aman Verma](https://github.com/Aman-IIITA)
 - [Donthoju Raghava](https://github.com/Raghava-IIITA)
+- [Perisetla sri satwik] (https://github.com/satwik-060)
 - [Charishma Kongani](http://github.com/Charishma-K)
 - [Aashish Agrawal](https://github.com/AashishA11)
 - [HariPrasath R](https://github.com/HariPrasath-3)
