@@ -328,3 +328,4 @@
 -{idkqnaklsk'[p]}
 - u have to push to yourself otherwise no one is going to do so
 - What else u can do
+- take action 
