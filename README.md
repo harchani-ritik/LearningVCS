@@ -105,6 +105,7 @@
 
 ## COVID BATCH
 - [Ansh Gupta](https://github.com/ansh0711)
+- [Ansh Gupta](https://github.com/ansh0711)
 - [Shashwat Kumar Gautam](https://github.com/Sassyy16)
 - [Pushkal Madaan](https://github.com/XxNightLightxX)
 - [Krishnapal Panwar](https://github.com/kpsingh-20)
