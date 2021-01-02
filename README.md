@@ -328,3 +328,4 @@
 - [Srishti Dhir](https://github.com/Srishti-diw)
 - [Laalasa Krishna](https://github.com/laalasa)
 - [Pranav Sahu](https://github.com/Pranav-22-aditya)
+- [Kajal Kaushal](https://github.com/Kajal-7)
