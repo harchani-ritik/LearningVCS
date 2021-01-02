@@ -330,3 +330,4 @@
 - [Pranav Sahu](https://github.com/Pranav-22-aditya)
 - [Kajal Kaushal](https://github.com/Kajal-7)
 - [Yash Jain](https://github.com/yashjain94266yj)
+- [Rohit Chowdhury](https://github.com/Rohitciiita)
