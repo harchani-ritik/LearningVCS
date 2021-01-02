@@ -325,6 +325,7 @@
 - [Raunak Krishan Jaiswal](https://github.com/rkjais107)
 - [Tarun Harishchandra Pal](https://github.com/godofpsychos)
 - [Saurav Chandawad](https://github.com/schandu-eng)
+- [KIRTEE](https://github.com/Kirtee-prajapati)
 - [Srishti Dhir](https://github.com/Srishti-diw)
 - [Laalasa Krishna](https://github.com/laalasa)
 - [Pranav Sahu](https://github.com/Pranav-22-aditya)
